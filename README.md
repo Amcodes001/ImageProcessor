@@ -7,3 +7,8 @@ It has many use cases like in real world applications e.g : object detection
 
 -> Implemented Using BFS (Breadth First Search).
 Similar leetcode questions: 1) Number of Islands, 2) Max Area of Island
+
+Sample Application Images : 
+
+![Screenshot 2023-07-30 at 2 11 15 AM](https://github.com/Amcodes001/ImageProcessor/assets/49248459/f23049a3-1485-40a5-bb70-55e3c7afcad7)
+
